@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+.roboto-regular {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  .roboto-bold {
+    font-family: "Roboto", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;    
+}
+
+main{
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 1em;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto', sans-serif;
+}
+
+*{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.education{
+    margin: 1.5em 0;
+}
+.expereinces{
+    margin: 1.5em 0;
+}
+.name{
+    font-size: 30px;
+    font-weight: bold;
+}
+.role{
+    font-size: 20px;
+    font-weight: 500;
+    color: green;
+    margin: 0.3em 0;
+}
+header{
+    margin: 1.5em 0;
+}
+.title{
+    font-size: 20px;
+    font-weight: 500;
+    color: green;
+    margin:0.3em 0;
+}
+.job-title{
+    font-size: 20px;
+    font-weight: 500;
+    color: #81BFDA;
+    margin:0.3em 0;
+}
+
+.responsibilities li{
+    margin: 0.5em 0;
+    list-style-position: inside;
+}
+.across-the-internet{
+    margin: 1em 0;
+}
+.across-the-internet .title{
+    font-size: 20px;
+    font-weight: 500;
+    color: green;
+    margin:0.3em 0;
+}
+.across-the-internet .social a{
+    text-decoration: none;
+    color: #333;
+    margin: 0 0.5em;
+}
